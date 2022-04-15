@@ -1,0 +1,7 @@
+{
+      "reporter": "cypress-mochawesome-reporter",
+      "video": false,
+      "baseUrl": "https://applications.eu-1.celonis.cloud/ui/",
+      "viewportWidth": 1300,
+      "viewportHeight": 900
+}

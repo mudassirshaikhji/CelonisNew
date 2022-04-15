@@ -1,0 +1,4 @@
+{
+    "invalidCredentialsErrorMessage": "Email or password are incorrect. ",
+    "successfullyLoggedInURL": "/package-manager"
+}
