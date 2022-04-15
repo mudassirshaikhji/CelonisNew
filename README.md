@@ -1,7 +1,7 @@
 # CelonisNew
 
 ## clone this repo to a local directory
-git clone https://github.com/<your-username>/cypress-example-phonecat.git
+git clone https://github.com/<your-username>/CelonisNew.git
 
 ## cd into the cloned repo
 cd cypress-example-phonecat
